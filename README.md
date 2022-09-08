@@ -2,7 +2,7 @@
 #This project contains some methods on background suppression of star images. 
 For methods without code uploaded, references will be given first, and codes will be given after sorting.
 
-1.Median Filtering
+1.Median Filtering https://github.com/MeteHanC/Python-Median-Filter
 
 2.BM3D https://github.com/liuhuang31/BM3D-Denoise
 
